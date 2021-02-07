@@ -1,8 +1,8 @@
 import React from 'react';
-import Banner from './Banner';
-import Row from './Row';
-import Nav from './Nav';
-import requests from './Requests';
+import Banner from '../Banner';
+import Row from '../Row';
+import Nav from '../Nav';
+import requests from '../Requests';
 
 import './HomeScreen.css';
 

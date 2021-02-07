@@ -1,5 +1,6 @@
-firebase.js
 data.js
+.firebaserc
+firebase.json
 
 # dependencies
 /node_modules
